@@ -1,0 +1,101 @@
+Players,Zone ,FGA,FGM,FG%,Shot Share
+Luka Doncic,At Rim / 0–3 ft,111,92,82.90%,7.60%
+Luka Doncic,Short Range / 3–10 ft,288,172,59.50%,19.80%
+Luka Doncic,Midrange / 10–3P,363,175,48.20%,24.90%
+Luka Doncic,Corner 3,40,12,30.00%,2.80%
+Luka Doncic,Non-Corner 3,654,242,37.00%,44.80%
+SGA,At Rim / 0–3 ft,301,227,75.40%,22.80%
+SGA,Short Range / 3–10 ft,229,111,48.50%,17.30%
+SGA,Midrange / 10–3P,494,278,56.40%,37.40%
+SGA,Corner 3,16,5,31.30%,1.20%
+SGA,Non-Corner 3,283,110,39.00%,21.40%
+Anthony Edwards,At Rim / 0–3 ft,222,167,75.40%,18.00%
+Anthony Edwards,Short Range / 3–10 ft,183,88,48.10%,14.90%
+Anthony Edwards,Midrange / 10–3P,313,142,45.40%,25.40%
+Anthony Edwards,Corner 3,46,22,47.80%,3.70%
+Anthony Edwards,Non-Corner 3,469,183,39.00%,38.10%
+Jaylen Brown,At Rim / 0–3 ft,247,184,74.50%,16.00%
+Jaylen Brown,Short Range / 3–10 ft,404,195,48.40%,26.20%
+Jaylen Brown,Midrange / 10–3P,488,216,44.30%,31.60%
+Jaylen Brown,Corner 3,48,19,39.60%,3.10%
+Jaylen Brown,Non-Corner 3,356,123,34.60%,23.10%
+Tyrese Maxey,At Rim / 0–3 ft,354,239,67.50%,23.20%
+Tyrese Maxey,Short Range / 3–10 ft,310,134,43.10%,20.30%
+Tyrese Maxey,Midrange / 10–3P,255,111,43.50%,16.70%
+Tyrese Maxey,Corner 3,47,17,37.00%,3.10%
+Tyrese Maxey,Non-Corner 3,562,206,36.70%,36.80%
+Kawhi Leonard,At Rim / 0–3 ft,163,123,75.20%,12.80%
+Kawhi Leonard,Short Range / 3–10 ft,261,148,56.60%,20.50%
+Kawhi Leonard,Midrange / 10–3P,399,198,49.70%,31.30%
+Kawhi Leonard,Corner 3,42,17,41.50%,3.30%
+Kawhi Leonard,Non-Corner 3,410,158,38.40%,32.10%
+Donovan Mitchell,At Rim / 0–3 ft,265,176,66.40%,18.90%
+Donovan Mitchell,Short Range / 3–10 ft,269,152,56.50%,19.20%
+Donovan Mitchell,Midrange / 10–3P,252,121,48.40%,18.00%
+Donovan Mitchell,Corner 3,74,29,39.20%,5.30%
+Donovan Mitchell,Non-Corner 3,541,197,36.40%,38.60%
+NIkola Jokic,At Rim / 0–3 ft,245,185,75.50%,21.60%
+NIkola Jokic,Short Range / 3–10 ft,424,250,58.90%,37.40%
+NIkola Jokic,Midrange / 10–3P,170,98,57.40%,15.00%
+NIkola Jokic,Corner 3,18,10,55.60%,1.60%
+NIkola Jokic,Non-Corner 3,277,105,38.00%,24.50%
+Giannis Antetokounmpo,At Rim / 0–3 ft,365,292,80.00%,61.00%
+Giannis Antetokounmpo,Short Range / 3–10 ft,96,41,42.70%,16.10%
+Giannis Antetokounmpo,Midrange / 10–3P,92,25,27.20%,15.40%
+Giannis Antetokounmpo,Corner 3,1,1,100%,0.20%
+Giannis Antetokounmpo,Non-Corner 3,44,15,33.30%,7.30%
+Joel Embiid,At Rim / 0–3 ft,156,106,67.90%,22.40%
+Joel Embiid,Short Range / 3–10 ft,104,44,42.30%,14.90%
+Joel Embiid,Midrange / 10–3P,278,138,49.30%,39.90%
+Joel Embiid,Corner 3,8,2,25.00%,1.10%
+Joel Embiid,Non-Corner 3,151,50,33.30%,
+Lauri Markkanen,At Rim / 0–3 ft,,,,
+Lauri Markkanen,Short Range / 3–10 ft,,,,
+Lauri Markkanen,Midrange / 10–3P,,,,
+Lauri Markkanen,Corner 3,,,,
+Lauri Markkanen,Non-Corner 3,,,,
+Stephen Curry,At Rim / 0–3 ft,,,,
+Stephen Curry,Short Range / 3–10 ft,,,,
+Stephen Curry,Midrange / 10–3P,,,,
+Stephen Curry,Corner 3,,,,
+Stephen Curry,Non-Corner 3,,,,
+Devin Booker,At Rim / 0–3 ft,,,,
+Devin Booker,Short Range / 3–10 ft,,,,
+Devin Booker,Midrange / 10–3P,,,,
+Devin Booker,Corner 3,,,,
+Devin Booker,Non-Corner 3,,,,
+Jalen Bruson,At Rim / 0–3 ft,,,,
+Jalen Bruson,Short Range / 3–10 ft,,,,
+Jalen Bruson,Midrange / 10–3P,,,,
+Jalen Bruson,Corner 3,,,,
+Jalen Bruson,Non-Corner 3,,,,
+Kevin Durant,At Rim / 0–3 ft,,,,
+Kevin Durant,Short Range / 3–10 ft,,,,
+Kevin Durant,Midrange / 10–3P,,,,
+Kevin Durant,Corner 3,,,,
+Kevin Durant,Non-Corner 3,,,,
+Jamal Murray,At Rim / 0–3 ft,,,,
+Jamal Murray,Short Range / 3–10 ft,,,,
+Jamal Murray,Midrange / 10–3P,,,,
+Jamal Murray,Corner 3,,,,
+Jamal Murray,Non-Corner 3,,,,
+Victor Wembanyama,At Rim / 0–3 ft,,,,
+Victor Wembanyama,Short Range / 3–10 ft,,,,
+Victor Wembanyama,Midrange / 10–3P,,,,
+Victor Wembanyama,Corner 3,,,,
+Victor Wembanyama,Non-Corner 3,,,,
+Deni Avdija,At Rim / 0–3 ft,,,,
+Deni Avdija,Short Range / 3–10 ft,,,,
+Deni Avdija,Midrange / 10–3P,,,,
+Deni Avdija,Corner 3,,,,
+Deni Avdija,Non-Corner 3,,,,
+Micheal Porter Jr,At Rim / 0–3 ft,,,,
+Micheal Porter Jr,Short Range / 3–10 ft,,,,
+Micheal Porter Jr,Midrange / 10–3P,,,,
+Micheal Porter Jr,Corner 3,,,,
+Micheal Porter Jr,Non-Corner 3,,,,
+Pascal Siakam,At Rim / 0–3 ft,,,,
+Pascal Siakam,Short Range / 3–10 ft,,,,
+Pascal Siakam,Midrange / 10–3P,,,,
+Pascal Siakam,Corner 3,,,,
+Pascal Siakam,Non-Corner 3,,,,
